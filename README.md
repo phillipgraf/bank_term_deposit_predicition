@@ -7,6 +7,8 @@ Attention: The language of the dashboard is german.
 Choose a client and the program shows you how likely that the customer subscribe by your next call a bank term deposit.
 It shows you what influence which parameter has on the result. You can change the parameters manually to check what can be changed that the customer is more likely to approve.
 
+Data set: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
 The dashboard has some problems with loading speed. It takes a little time to load the updated parameters. Please use it wisely.
 
 In collaboration with [@Maximilian-v-H](https://github.com/Maximilian-v-H).
